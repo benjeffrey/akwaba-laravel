@@ -1,0 +1,3 @@
+<section class="p-4 md:p-16 xl:p-[100px] bg-white">
+    <iframe class="w-full rounded-xl md:shadow-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.24436665579!2d-77.1497072!3d38.781031999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b2815aeceaf7%3A0x18fcf328b35fbe0d!2sAkwaba%20Hair%20Braiding!5e0!3m2!1sen!2scm!4v1715086309032!5m2!1sen!2scm" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
